@@ -32,9 +32,9 @@ div {
 p {
   border: 2px solid black;
   background-color: gray;
-  padding: 35px;
+  padding: 45px;
   width: 90%;
-  height: 200px;
+  height: 250px;
   margin-right: auto;
   margin-left: auto;
   color: black;
@@ -160,7 +160,7 @@ p {
 
   .third {
     width: 95%;
-    padding: 35px;
+    padding: 45px;
     margin-right: auto;
     margin-left: auto;
   }
